@@ -1,0 +1,24 @@
+# Smart Bus Safety System (ESP32)
+
+## Overview
+This project is an ESP32-based smart bus safety monitoring system.
+
+## Features
+- Alcohol detection
+- Smoke detection
+- Flame detection
+- Ultrasonic obstacle detection
+- Servo motor guard system
+- Buzzer alert system
+
+## Components Used
+- ESP32
+- MQ Alcohol Sensor
+- Smoke Sensor
+- Flame Sensor
+- Ultrasonic Sensor
+- Servo Motor
+- Buzzer
+
+## Author
+Teja Yadav
